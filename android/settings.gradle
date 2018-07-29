@@ -1,0 +1,3 @@
+rootProject.name = 'BillManager'
+
+include ':app'
